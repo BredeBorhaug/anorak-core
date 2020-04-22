@@ -1,0 +1,25 @@
+{
+  "name": "anorak-core",
+  "version": "0.0.1",
+  "description": "The Anorak core package",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BredeBorhaug/anorak-core.git"
+  },
+  "keywords": [
+    "Anorak"
+  ],
+  "author": "brede@borhaug.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BredeBorhaug/anorak-core/issues"
+  },
+  "homepage": "https://github.com/BredeBorhaug/anorak-core#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
